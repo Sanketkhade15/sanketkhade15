@@ -124,8 +124,8 @@ I combine deep technical knowledge of system internals with modern AI/ML pipelin
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanket_Khade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanketkhade)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanket@example.com)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-Sanket_Khade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanketkhade](https://www.linkedin.com/in/sanket-khade-67000a26b/))
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](khadesanket9078@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@sanketkhade-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanketkhade)
 
 </div>
