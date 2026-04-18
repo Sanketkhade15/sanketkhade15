@@ -70,7 +70,39 @@ I combine deep technical knowledge of system internals with modern AI/ML pipelin
 - **Security event correlation** — building correlation rules that reduce false positives and surface true threats
 
 ---
-═════════════════════════════════════════════════════╝
+
+### 🤖 Generative AI Development
+
+```python
+# Sanket's AI Security Stack
+stack = {
+    "LLM Integration":   ["OpenAI API", "Anthropic Claude", "LangChain", "LlamaIndex"],
+    "AI Security Apps":  ["Threat intel chatbots", "Log summarization", "Anomaly narration"],
+    "Frameworks":        ["FastAPI", "Python", "Streamlit", "LangGraph"],
+    "RAG Pipelines":     ["Vector DBs (Pinecone, FAISS)", "Document ingestion", "Semantic search"],
+    "Automation":        ["AI-driven alert triage", "Incident report generation", "CVE Q&A bots"],
+}
+```
+
+**Key Applications Built:**
+- 🔍 **AI-powered log analyzer** — LLM-based summarization of security logs to surface critical events instantly
+- 🤖 **Threat intelligence chatbot** — RAG pipeline over CVE databases and threat feeds for real-time Q&A
+- 📝 **Automated incident reporter** — Gen AI that converts raw SIEM alerts into structured incident reports
+- 🚨 **Anomaly narration engine** — NLP layer on top of Prometheus metrics to explain system anomalies in plain English
+
+---
+
+## 🧰 Technical Toolkit
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║  LANGUAGES        Python · Bash · PowerShell · SQL          ║
+║  SECURITY TOOLS   Nmap · Metasploit · Burp Suite · Nessus   ║
+║  MONITORING       Prometheus · Grafana · ELK · Splunk        ║
+║  AI/ML            LangChain · OpenAI · HuggingFace · FAISS  ║
+║  CLOUD            AWS (IAM, CloudTrail, GuardDuty) · Linux   ║
+║  CONTAINERS       Docker · basic Kubernetes awareness        ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 ---
@@ -95,7 +127,13 @@ I combine deep technical knowledge of system internals with modern AI/ML pipelin
 
 ---
 
+## 🎓 Education & Certifications
 
+- 🎓 **B.Sc. / B.Tech** — Information Technology / Computer Science
+- 📜 Pursuing / Completed: CEH · CompTIA Security+ *(or relevant certifications)*
+- 🧠 Continuous self-learning in Red Team tactics, AI security, and threat intelligence
+
+---
 
 ## 📊 GitHub Stats
 
